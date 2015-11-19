@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Messenger</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="send">Pesquisar</string>
+    <string name="title_activity_receive_message">ReceiveMessageActivity</string>
+    <string name="chooser">Send message...</string>
+
+    <string name= "searcher"></string>
+    <string name= "lblSearcher">Digite algo para pesquisar</string>
+    <string name= "limit">Limite</string>
+    <string name= "opcao1">10</string>
+    <string name= "opcao2">20</string>
+    <string name= "opcao3">30</string>
+</resources>
